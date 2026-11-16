@@ -1,0 +1,6 @@
+{
+  "name": "CORPORA",
+  "description": "Company intelligence and workplace transparency mobile platform for verified employee reviews, salary insights, culture comparisons, and anonymous discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

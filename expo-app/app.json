@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "CORPORA",
+    "slug": "corpora-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "corpora",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.corpora.app"
+    },
+    "android": {
+      "package": "com.corpora.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1120"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"]
+  }
+}
